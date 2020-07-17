@@ -1,4 +1,4 @@
-package com.zin0.book.springboot;
+package com.zin0.book.springboot.web;
 
 import com.zin0.book.springboot.config.auth.SecurityConfig;
 import com.zin0.book.springboot.web.HelloController;
